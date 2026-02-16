@@ -1,3 +1,2 @@
 # Calculator
----
 A simple calculator
